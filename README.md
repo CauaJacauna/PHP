@@ -1,2 +1,2 @@
 # PHP
-Repositório para testes de PHP 
+*Repositório para testes de PHP*
