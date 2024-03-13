@@ -21,7 +21,7 @@
          ?>
     
         <button onclick="javascript:history.go(-1)">Voltar</button>
-    <!-- <button onclick="javascript.window.location.href='index.html'">Voltar</button> -->
+    <!-- <button onclick="javascript.window.location.href='index.html'">Voltar</button> OUTRA FORMA DE VOLTAR A PAGINA ANTERIOR-->
         </center>
     </main>
 </body>
