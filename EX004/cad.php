@@ -13,7 +13,7 @@
         $sobrenome = $_REQUEST['snome'] ?? 'desconhecido';
 
         echo ("É um prazer ter você aqui  $nome  $sobrenome");
-
+// EX 004
        ?>
     <p><a href="javascript:history.go(-1)">Voltar para a página anterior</a></p>    
     </main>
